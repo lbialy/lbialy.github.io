@@ -1,4 +1,4 @@
-// using scala 3.3.1
+//> using scala 3.3.1
 
 // extremely cursed code, don't even think about doing things like that
 // this is just a prototype of syntax, code has to type check only

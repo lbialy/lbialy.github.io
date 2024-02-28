@@ -1,5 +1,5 @@
-// using scala 3.3.1
-// using file macro-based-interpolators.scala
+//> using scala 3.3.1
+//> using file macro-based-interpolators.scala
 
 import interpolators.*
 import io.circe.*

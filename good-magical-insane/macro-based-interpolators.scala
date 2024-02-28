@@ -1,3 +1,5 @@
+//> using dep io.circe::circe-parser:0.14.6
+
 object interpolators:
   import scala.quoted.*
   import io.circe.*, io.circe.parser.*

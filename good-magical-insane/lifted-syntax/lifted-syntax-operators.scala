@@ -13,7 +13,7 @@ class Foo:
 val opt: Option[Foo] = Option(new Foo)
 
 // this whole thing was devised by Michał Pałka ( @prolativ )
-@main def run() = {
+@main def run() = 
   println(opt.?.value) // Some(Some(abc))
   println(opt.??.value) // Some(abc)
 
